@@ -1,0 +1,7 @@
+Java Implementation/out/
+Python Implementation/.venv/
+C Implementation/cmake-build-debug/
+
+/**/.idea
+/**/*.iml
+/**/cmake-build-debug/
